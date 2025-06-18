@@ -1,4 +1,4 @@
-# Modifications
+# WD Studios Corp. Modifications
 
 Added to AW Launcher. Update the Engine, and you should see this plugin listed. AWE Will find a blender installation for you, and add it.
 
